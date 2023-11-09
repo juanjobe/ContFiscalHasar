@@ -1,0 +1,16 @@
+H:\Sistemas21\Hasar\Fw\ContFiscal.Infra48\obj\Debug\ContFiscal.Infra48.csprojAssemblyReference.cache
+H:\Sistemas21\Hasar\Fw\ContFiscal.Infra48\obj\Debug\ContFiscal.Infra48.csproj.CoreCompileInputs.cache
+H:\Sistemas21\Hasar\Fw\ContFiscal.Infra48\bin\Debug\ContFiscal.Infra48.dll
+H:\Sistemas21\Hasar\Fw\ContFiscal.Infra48\bin\Debug\ContFiscal.Infra48.pdb
+H:\Sistemas21\Hasar\Fw\ContFiscal.Infra48\bin\Debug\HasarLibreriaFiscal3561.dll
+H:\Sistemas21\Hasar\Fw\ContFiscal.Infra48\obj\Debug\ContFiscal.Infra48.csproj.CopyComplete
+H:\Sistemas21\Hasar\Fw\ContFiscal.Infra48\obj\Debug\ContFiscal.Infra48.dll
+H:\Sistemas21\Hasar\Fw\ContFiscal.Infra48\obj\Debug\ContFiscal.Infra48.pdb
+G:\Sis21\Hasar\Fw\ContFiscal.Infra48\bin\Debug\ContFiscal.Infra48.dll
+G:\Sis21\Hasar\Fw\ContFiscal.Infra48\bin\Debug\ContFiscal.Infra48.pdb
+G:\Sis21\Hasar\Fw\ContFiscal.Infra48\bin\Debug\HasarLibreriaFiscal3561.dll
+G:\Sis21\Hasar\Fw\ContFiscal.Infra48\obj\Debug\ContFiscal.Infra48.csproj.AssemblyReference.cache
+G:\Sis21\Hasar\Fw\ContFiscal.Infra48\obj\Debug\ContFiscal.Infra48.csproj.CoreCompileInputs.cache
+G:\Sis21\Hasar\Fw\ContFiscal.Infra48\obj\Debug\ContFiscal.Infra48.csproj.CopyComplete
+G:\Sis21\Hasar\Fw\ContFiscal.Infra48\obj\Debug\ContFiscal.Infra48.dll
+G:\Sis21\Hasar\Fw\ContFiscal.Infra48\obj\Debug\ContFiscal.Infra48.pdb

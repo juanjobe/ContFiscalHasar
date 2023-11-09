@@ -1,0 +1,119 @@
+23/11/2021 18:05:02 - Iniciando conexión: 10.0.7.56
+23/11/2021 18:05:02 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+23/11/2021 18:05:25 - Iniciando conexión: 10.0.7.56
+23/11/2021 18:05:25 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+23/11/2021 18:05:36 - Se excedió el tiempo de espera de la operación
+23/11/2021 18:05:56 - Iniciando conexión: 127.0.0.1
+23/11/2021 18:05:56 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+23/11/2021 18:05:56 - Error en el servidor remoto: (404) No se encontró.
+23/11/2021 18:28:12 - Iniciando conexión: 127.0.0.1
+23/11/2021 18:28:12 - <?xml version="1.0" encoding="UTF-8"?><ConsultarConfiguracionRed />
+23/11/2021 18:28:12 - Error en el servidor remoto: (404) No se encontró.
+23/11/2021 18:33:27 - Iniciando conexión: 127.0.0.1
+23/11/2021 18:33:27 - <?xml version="1.0" encoding="UTF-8"?><ConsultarConfiguracionRed />
+23/11/2021 18:33:27 - Error en el servidor remoto: (404) No se encontró.
+23/11/2021 19:51:18 - Iniciando conexión: 127.0.0.1
+23/11/2021 19:51:18 - <?xml version="1.0" encoding="UTF-8"?><ConsultarConfiguracionRed />
+23/11/2021 19:51:18 - Error en el servidor remoto: (404) No se encontró.
+23/11/2021 19:51:27 - Iniciando conexión: 127.0.0.1
+23/11/2021 19:51:27 - <?xml version="1.0" encoding="UTF-8"?><ConsultarConfiguracionRed />
+23/11/2021 19:51:27 - Error en el servidor remoto: (404) No se encontró.
+23/11/2021 19:53:21 - Iniciando conexión: 127.0.0.1
+23/11/2021 19:53:21 - <?xml version="1.0" encoding="UTF-8"?><ConsultarConfiguracionRed />
+23/11/2021 19:53:21 - Error en el servidor remoto: (404) No se encontró.
+23/11/2021 19:53:40 - Iniciando conexión: 127.0.0.1
+23/11/2021 19:53:40 - <?xml version="1.0" encoding="UTF-8"?><ConsultarConfiguracionRed />
+23/11/2021 19:53:40 - Error en el servidor remoto: (404) No se encontró.
+23/11/2021 19:54:23 - Iniciando conexión: 127.0.0.1
+23/11/2021 19:54:23 - <?xml version="1.0" encoding="UTF-8"?><ConsultarConfiguracionRed />
+23/11/2021 19:54:23 - Error en el servidor remoto: (404) No se encontró.
+23/11/2021 21:09:57 - Iniciando conexión: 127.0.0.1
+23/11/2021 21:09:57 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+23/11/2021 21:09:57 - Error en el servidor remoto: (404) No se encontró.
+23/11/2021 21:11:17 - Iniciando conexión: 127.0.0.1
+23/11/2021 21:11:17 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+23/11/2021 21:11:17 - Error en el servidor remoto: (404) No se encontró.
+23/11/2021 21:13:25 - Iniciando conexión: 127.0.0.1:6300
+23/11/2021 21:13:25 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+23/11/2021 21:13:25 - *** Respuesta ***
+23/11/2021 21:13:25 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>3</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>InicioJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>NoDocumento</CodigoComprobante>
+	<NumeroUltimoComprobante>0</NumeroUltimoComprobante>
+	<CantidadEmitidos>0</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+23/11/2021 21:13:25 - Iniciando conexión: 127.0.0.1:6300
+23/11/2021 21:13:25 - <?xml version="1.0" encoding="UTF-8"?><ConsultarVersion />
+23/11/2021 21:13:25 - *** Respuesta ***
+23/11/2021 21:13:25 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarVersion>
+	<Secuencia>4</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<Version>SMH/PT-1000F V: 01.00</Version>
+	<Marca>Hasar</Marca>
+	<NombreProducto>CF</NombreProducto>
+	<VersionMotor>6.02A</VersionMotor>
+	<FechaFirmware>17/02/2017 11:10:50</FechaFirmware>
+	<VersionProtocolo>0</VersionProtocolo>
+</ConsultarVersion>
+23/11/2021 23:13:16 - Iniciando conexión: 127.0.0.1:6300
+23/11/2021 23:13:16 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+23/11/2021 23:13:16 - *** Respuesta ***
+23/11/2021 23:13:16 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>7</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>InicioJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>NoDocumento</CodigoComprobante>
+	<NumeroUltimoComprobante>0</NumeroUltimoComprobante>
+	<CantidadEmitidos>0</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+23/11/2021 23:13:16 - Iniciando conexión: 127.0.0.1:6300
+23/11/2021 23:13:16 - <?xml version="1.0" encoding="UTF-8"?><ConsultarVersion />
+23/11/2021 23:13:16 - *** Respuesta ***
+23/11/2021 23:13:16 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarVersion>
+	<Secuencia>8</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<Version>SMH/PT-1000F V: 01.00</Version>
+	<Marca>Hasar</Marca>
+	<NombreProducto>CF</NombreProducto>
+	<VersionMotor>6.02A</VersionMotor>
+	<FechaFirmware>17/02/2017 11:10:50</FechaFirmware>
+	<VersionProtocolo>0</VersionProtocolo>
+</ConsultarVersion>

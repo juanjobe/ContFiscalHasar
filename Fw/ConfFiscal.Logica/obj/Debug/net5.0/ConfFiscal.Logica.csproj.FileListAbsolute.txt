@@ -1,0 +1,6 @@
+H:\Sistemas21\Hasar\Fw\ConfFiscal.Logica\bin\Debug\net5.0\ContFiscal.Infra.dll
+H:\Sistemas21\Hasar\Fw\ConfFiscal.Logica\bin\Debug\net5.0\HasarLibreriaFiscal3561.dll
+H:\Sistemas21\Hasar\Fw\ConfFiscal.Logica\obj\Debug\net5.0\ConfFiscal.Logica.csprojAssemblyReference.cache
+H:\Sistemas21\Hasar\Fw\ConfFiscal.Logica\obj\Debug\net5.0\ConfFiscal.Logica.GeneratedMSBuildEditorConfig.editorconfig
+H:\Sistemas21\Hasar\Fw\ConfFiscal.Logica\obj\Debug\net5.0\ConfFiscal.Logica.AssemblyInfoInputs.cache
+H:\Sistemas21\Hasar\Fw\ConfFiscal.Logica\obj\Debug\net5.0\ConfFiscal.Logica.AssemblyInfo.cs
